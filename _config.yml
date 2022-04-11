@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jingwen Yao"
   avatar           : "profile.png"
-  bio              : "A brain MRI scientist interested in the development and application of advanced imaging techniques for brain tumors and other neurological diseases."
-  location         : "San Francisco, California"
-  employer         : "Department of Radiology & Biomedical Imaging, University of California, San Francisco"
+  bio              : "A brain MRI scientist."
+  location         : # "San Francisco, California"
+  employer         : "University of California, San Francisco"
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/yao.jingwen.1/bibliography/public/"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=i4Rp18QAAAAJ"
   email            : "jingwen.yao@ucsf.edu"
