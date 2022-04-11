@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jingwen Yao"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "A brain MRI scientist interested in the development and application of advanced imaging techniques for brain tumors and other neurological diseases."
   location         : "San Francisco, California"
-  employer         :
+  employer         : "Department of Radiology & Biomedical Imaging, University of California, San Francisco"
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/yao.jingwen.1/bibliography/public/"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=i4Rp18QAAAAJ"
-  email            :
+  email            : "jingwen.yao@ucsf.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jingwen-yao-a5b82791/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
