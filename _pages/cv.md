@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Bioengineering (Biomedical Signal and Image Processing track), University of California, Los Angeles, 2021
+* M.S. in Chemistry (Biophysics track), University of California, Los Angeles, 2017
+* M.B.B.S. in Clinical Medicine, Shanghai Jiao Tong Univeristy, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2021 - Present: Postdoctoral Scholar
+  * University of California, San Francisco
+  * Department of Radiology & Biomedical Imaging
+  * Advisors: Dr. Janine Lupo, Dr. Peder Larson
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2017 - March 2021: Graduate Student Researcher
+  * University of California, Los Angeles
+  * Department of Bioengineering
+  * Advisor: Dr. Benjamin Ellingson
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * MATLAB, Python, C++, LaTeX
+* Neuroimaging Softwares
+  * AFNI, FSL, FreeSurfer, SEPIA
 
 Publications
 ======
@@ -54,6 +52,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Services
 ======
-* Currently signed in to 43 different slack teams
+* February 2022 - Present: UCSF Postdoctoral Scholar Association (PSA) Outreach Officer
