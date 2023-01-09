@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* June 2021 - Present: Postdoctoral Scholar
+* June 2021 - December 2022: Postdoctoral Researcher
   * University of California, San Francisco
   * Department of Radiology & Biomedical Imaging
   * Advisors: Dr. Janine Lupo, Dr. Peder Larson
